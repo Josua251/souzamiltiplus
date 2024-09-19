@@ -1,7 +1,8 @@
 body{
     color: white;
-    background: rgb(10, 2, 2);
+    background: #0a0202;
     margin: 0px;
+    font-family: "Sofadi One", system-ui;
 }
 
 header {
@@ -21,8 +22,14 @@ section{
 }
 
 .chamada-texto{
-    margem-right: 20px;
+    margem-right: 0px;
     
+}
 
+h1{
+    font-size: 40px;
+}
 
+p{
+    font-size: 20px;
 }
